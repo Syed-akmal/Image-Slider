@@ -1,0 +1,28 @@
+
+body{
+    color: darkolivegreen;
+    
+}
+li>a{
+    text-decoration: none;
+    padding: 100px;
+    color:ghostwhite;
+    
+}
+ul{
+    list-style: none;
+    display: flex;  
+     
+}
+nav{
+    border-style: groove;
+    border-radius: 10px;
+    background-color: black;
+}
+.search{
+    height: 30px;
+    width: 400px;
+}
+.mySlides{
+    width: 100%;
+}
